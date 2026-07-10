@@ -1,6 +1,6 @@
 # Module Reviews
 
-Here is a collection of all the modules that I have taken thus far/will be taking as well as my honest reviews of them!
+Here is a collection of all the modules that I have taken during my time at NUS and my honest reviews of them!
 
 | Year | Semester | Module Code | Module Name                                            |
 | :--: | :------: | ----------: | :----------------------------------------------------- |
@@ -38,4 +38,4 @@ Here is a collection of all the modules that I have taken thus far/will be takin
 |  4   |    2     |     DSA4265 | Sense-making Case Analysis: Economics and Finance      |
 |      |          |      HS2929 | Facts or Feelings: What Drives Environmental Decisions |
 
-Updated as of 03/02/2026.
+Updated as of 10/07/2026.
